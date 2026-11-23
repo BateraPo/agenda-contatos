@@ -1,12 +1,5 @@
 # Agenda de Contatos - Twelve-Factor App
 
-<<<<<<< HEAD
-Trabalho da faculdade em grupo. CRUD de contatos em PHP com CodeIgniter 4.
-
-(o README completo vai ser feito durante o trabalho)
-=======
-Trabalho da faculdade: CRUD de contatos em PHP com CodeIgniter 4, MySQL e consulta de CEP na API ViaCEP, aplicando os 4 primeiros fatores do Twelve-Factor App.
-
 ## O que precisa ter instalado
 
 - XAMPP com PHP 8.1 ou mais (Apache e MySQL ligados)
@@ -35,4 +28,3 @@ php spark serve
 ```
 
 4. Abre `http://localhost:8080`.
->>>>>>> d9d27da2999a810ff64898d4df6b0c3786547ac5

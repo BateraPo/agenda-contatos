@@ -6,7 +6,7 @@
 - Composer
 - Git
 
-No `php.ini` do XAMPP (`C:\xampp\php\php.ini`) precisa estar sem o `;` na frente de `extension=intl` e `extension=curl`. Depois reinicia o Apache.
+No `php.ini` do XAMPP (`C:\xampp\php\php.ini`) precisa estar sem o `;` na frente de `extension=intl` e `extension=curl`.
 
 ## Como rodar
 

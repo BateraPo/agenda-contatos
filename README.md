@@ -11,8 +11,8 @@ No `php.ini` do XAMPP (`C:\xampp\php\php.ini`) precisa estar sem o `;` na frente
 ## Como rodar
 
 ```
-git clone https://github.com/USUARIO/agenda-contatos-twelve-factor.git
-cd agenda-contatos-twelve-factor
+git clone https://github.com/USUARIO/agenda-contatos.git
+cd agenda-contatos
 composer install
 copy .env.example .env
 ```

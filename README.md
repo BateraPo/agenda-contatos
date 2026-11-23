@@ -30,11 +30,3 @@ php spark serve
 ```
 
 4. Abre `http://localhost:8080`.
-
-## Documentação
-
-- `docs/documento-final.md`
-- `docs/fator-1-codebase.md` e `docs/fluxo-de-branches.md`
-- `docs/fator-2-dependencias.md`
-- `docs/fator-3-config.md`
-- `docs/fator-4-backing-services.md` e `docs/arquitetura.md`

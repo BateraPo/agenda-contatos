@@ -1,6 +1,13 @@
 
 # Agenda de Contatos - Twelve-Factor App
 
+## PARTICIPANTES DO GRUPO
+
+- ALEXANDRE
+- DEMERSON
+- VITOR H
+- VITOR M
+
 ## O que precisa ter instalado
 
 - XAMPP com PHP 8.1 ou mais (Apache e MySQL ligados)
